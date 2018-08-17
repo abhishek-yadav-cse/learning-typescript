@@ -1,6 +1,6 @@
-##First Typescript App - Hello World App !
+<h1>First Typescript App - Hello World App !</h1>
 
-#Installation and Run
+<h2>Installation and Run</h2>
 <br>
 `$ brew install node`
 <br>
