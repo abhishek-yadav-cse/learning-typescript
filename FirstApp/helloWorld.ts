@@ -4,4 +4,6 @@ function hello(string : String){
   console.log("Hello " + string);
 }
 
-hello("Abhishek")
+hello("Abhishek");
+
+//hello(1); //will throw error
