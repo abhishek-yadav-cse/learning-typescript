@@ -39,7 +39,6 @@ const name2 : String[] = ["Jon", "Rickon", "Arya"];
 enum Starks {Jon,Bran,Eddard,Catlyn};
 const cat : Starks = Starks.Catlyn;
 
-
 //VOID - no type generally used after function
 function getName() : String{
   //return 1; //Will give error
